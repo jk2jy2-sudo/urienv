@@ -72,7 +72,7 @@ const Service: React.FC = () => {
               <div className="bg-white p-8 rounded-3xl shadow-sm">
                 <Truck className="w-10 h-10 text-forest-green mb-4" />
                 <h4 className="font-bold mb-2">긴급 수거 대응</h4>
-                <p className="text-sm text-gray-500">갑작스러운 배출량 증가 시 2시간 내 출동</p>
+                <p className="text-sm text-gray-500">갑작스러운 배출량 증가 시 즉시 출동</p>
               </div>
               <div className="bg-white p-8 rounded-3xl shadow-sm mt-8">
                 <ShieldCheck className="w-10 h-10 text-yellow-600 mb-4" />
