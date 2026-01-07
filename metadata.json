@@ -1,5 +1,5 @@
 {
-  "name": "우리환경",
+  "name": "urienvironment",
   "description": "Professional, eco-friendly food waste collection and processing service for businesses, restaurants, and hospitals. Featuring a clean, trustworthy UI with an integrated cost estimator.",
   "requestFramePermissions": [
     "geolocation"
